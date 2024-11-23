@@ -1,0 +1,54 @@
+{
+  "Triad": [0, 4, 7],
+
+  "FirstInv": [4, 7, 0],
+
+  "SecondInv": [7, 0, 4],
+
+  "Maj6th": [0, 4, 7, 9],
+
+  "Dom7th": [0, 4, 7, 10],
+
+  "Dom7thThirdInv": [10, 0, 4, 7],
+
+  "Maj7th": [0, 4, 7, 11],
+
+  "Maj7thThirdInv": [11, 0, 4, 7],
+
+  "Add9": [0, 4, 7, 2],
+
+  "Add9ThirdInv": [2, 4, 7, 0],
+
+  "Sus2": [0, 2, 7],
+
+  "Sus4": [0, 5, 7],
+
+  "Sus42": [0, 2, 5, 7],
+
+  "MinTriad": [0, 3, 7],
+
+  "MinFirstInv": [3, 7, 0],
+
+  "MinSecondInv": [7, 0, 3],
+
+  "Min6th": [0, 3, 7, 9],
+
+  "Min7th": [0, 3, 7, 10],
+
+  "Min7thThirdInv": [10, 0, 3, 7],
+
+  "MinAdd9": [0, 3, 7, 2],
+
+  "MinAdd9ThirdInv": [2, 3, 7, 0],
+
+  "Maj7th9th": [0, 4, 7, 11, 2],
+
+  "Min7th9th": [0, 3, 7, 10, 2],
+  "Dom7th9th": [0, 4, 7, 10, 2],
+
+  "Dom7thFlat9": [0, 4, 7, 10, 1],
+
+  "Dim": [0, 3, 6, 9],
+
+  "HalfDim": [0, 3, 6, 10]
+}
